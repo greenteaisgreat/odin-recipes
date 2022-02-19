@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+    
+}
+
+h1{
+    font-family: 'Georgia', 'Times New Roman', 'Times', serif;
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(160, 64, 0);
+}
